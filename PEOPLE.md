@@ -1,1 +1,2 @@
-Haskell Curry
+OLOLO
+123415
